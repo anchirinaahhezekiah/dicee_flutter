@@ -32,7 +32,7 @@ A simple Flutter dice game where two dice appear on the screen, and tapping eith
    ```
 
 ## 📸 Screenshot  
-(Add a screenshot of your app here to showcase its UI.)
+(https://github.com/anchirinaahhezekiah/dicee_flutter/blob/main/images/screenshot.jpg)
 
 ## 📚 Credits  
 - Inspired by Angela Yu’s Flutter course.  
