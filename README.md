@@ -1,16 +1,41 @@
-# dicee_flutter
 
-A new Flutter project.
 
-## Getting Started
+# 🎲 Flutter Dice Game  
 
-This project is a starting point for a Flutter application.
+A simple Flutter dice game where two dice appear on the screen, and tapping either die rolls both dice randomly. This project was built with the help of a tutorial by [Angela Yu](https://www.udemy.com/course/flutter-bootcamp-with-dart/).  
 
-A few resources to get you started if this is your first Flutter project:
+## 📌 Features  
+- Two interactive dice that change randomly when tapped.  
+- Smooth animations for a better user experience.  
+- Built with Flutter for cross-platform compatibility.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tech Stack  
+- **Frontend:** Flutter (Dart)  
+- **State Management:** setState() (for handling UI updates)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/anchirinaahhezekiah/dicee_flutter.git
+   ```
+2. Navigate to the project folder:  
+   ```bash
+   cd dicee_flutter
+   ```
+3. Install dependencies:  
+   ```bash
+   flutter pub get
+   ```
+4. Run the app on an emulator or physical device:  
+   ```bash
+   flutter run
+   ```
+
+## 📸 Screenshot  
+(Add a screenshot of your app here to showcase its UI.)
+
+## 📚 Credits  
+- Inspired by Angela Yu’s Flutter course.  
+- Dice images from [Flutter packages](https://pub.dev/).  
+
+---
